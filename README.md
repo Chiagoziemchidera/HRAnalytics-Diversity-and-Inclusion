@@ -1,5 +1,4 @@
 # HR Analytics Report: Diversity & Inclusion Dashboard
-
 ## Project Overview
 This HR analytics project focuses on Diversity & Inclusion (D&I) within an organization. The analysis provides key insights into workforce diversity across various job levels, hiring trends, promotions, turnover rates, performance ratings, and executive gender balance. The objective is to help HR professionals and company executives make data-driven decisions to improve workplace inclusivity and equity.
 
